@@ -1,26 +1,29 @@
+# Secrets of Sosaria
 
-# NOTICE: Feature Completion - The Culmination of the Virtues
+## NOTICE: Feature Completion - The Culmination of the Virtues
 
-The vision of the land of Sosaria has stabilized since the shattering of the Gem of Immortality. Adventurers both new and returning should consider this world to offer all it was meant to offer and enjoy the journeys and secrets awaiting them within.
+A message from the custodians:
 
-However, other shards of the Gem of Immortality exist elsewhere, and those willing may wish to explore the alternate worlds they contain:
+> The vision of the land of Sosaria has stabilized since the shattering of the Gem of Immortality. Adventurers both new and returning should consider this world to offer all it was meant to offer and enjoy the journeys and secrets awaiting them within.
+> However, other shards of the Gem of Immortality exist elsewhere, and those willing may wish to explore the alternate worlds they contain.
 
-[Efellen](https://github.com/EstelMatiazi/Efellen) - A shard similar to Secrets of Sosaria, but with a greater focus on a fantasy endgame rather than a sci-fantasy endgame, as well as increased difficulty.
+Alternate worlds based on Secrets of Sosaria:
+ - [Efellen](https://github.com/EstelMatiazi/Efellen) - A shard similar to Secrets of Sosaria, but with a greater focus on a fantasy endgame rather than a sci-fantasy endgame, as well as increased difficulty.
+ - _Know of more?_ Make a pull request with a link to the world.
 
 ----------------------------------------------
 
-## Secrets of Sosaria
+## Instructions for the game
 
-For instructions, see the [manual](Docs/Manual.md).
+See the [manual](Docs/Manual.md).
 
-## Vision Statement
+### What is Secrets of Sosaria?
 
 Secrets of Sosaria is an enhanced fork of the Ruins & Riches (later continued
-as Adventurers of Akalabeth) project. We aim to continue the tradition of this
-project while also introducing improvements and additional content where we
-feel it would enhance the experience. Our main goals are as follows:
+as Adventurers of Akalabeth) project. The aim has been to continue the tradition of this
+project while also introducing improvements and additional content where the custodians
+felt it would enhance the experience. The main goals has been:
 
-### Short-Term Goals
 
 - Preservation and continuation of the core Ruins & Riches/Adventurers of
   Akalabeth experience. The "core experience" includes basic gameplay, game
@@ -33,11 +36,14 @@ feel it would enhance the experience. Our main goals are as follows:
   feel redundant by other aspects of the game.
 - Identifying and reworking instances of "hostile design" that only provide
   tedium to the player instead of a sense of accomplishment.
-
-### Long-Term Goals
-
 - The introduction of new content that fits the aesthetic and themes of the
-  game world.
+  game world to add some new flavor to the game.
+
+The custodians have seeked to honor the legacy of the original makers and caretakers of this
+game while also making it a more engaging, cohesive, and most importantly fun
+experience for all. While this is one fork among many of this project, we
+wish to provide the best possible user experience through utilizing the methods
+outlined in our goals.
 
 ### Target Audience
 
@@ -48,18 +54,10 @@ players of Ruins & Riches and any of its previous forks who would like to play
 something further refined as a more streamlined, player-friendly, bugfixed and,
 eventually, more content-rich version of the game that they've come to love.
 
-### Why Choose Secrets of Sosaria?
+### Contributions
 
-The source for our world package is freely available on GitHub and we are open
-to taking suggestions from the community and potentially implementing them, so
-long as they align with our vision. We frequently update the game, and we have
-a friendly and growing community of players both on our live server
-(Multiverset) as well as those who play their own personal solo servers.
+As per 2026, the custodians consider Secrets of Sosaria a complete game. 
+If you encounter bugs please do report an issue or even better, make a pull request with a fix.
+New features will no longer be integrated.
 
-### Conclusion
 
-We seek to honor the legacy of the original developers and caretakers of this
-game while also making it a more engaging, cohesive, and most importantly fun
-experience for all. While we are just one fork among many of this project, we
-wish to provide the best possible user experience through utilizing the methods
-outlined in our goals.
